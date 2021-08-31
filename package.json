@@ -1,0 +1,24 @@
+{
+  "name": "test-package-bterzea",
+  "version": "1.0.0",
+  "description": "Testing npm registry functionality and accessibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanterzea/test-package-bterzea.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "dummy"
+  ],
+  "author": "bterzea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanterzea/test-package-bterzea/issues"
+  },
+  "homepage": "https://github.com/bogdanterzea/test-package-bterzea#readme"
+}
