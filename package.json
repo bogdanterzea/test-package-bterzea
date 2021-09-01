@@ -1,7 +1,7 @@
 {
   "name": "test-package-bterzea",
-  "version": "1.2.0",
-  "description": "Testing npm registry functionality and accessibility",
+  "version": "1.3.0",
+  "description": "Adding licence and test packaging",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,8 +15,8 @@
     "npm",
     "dummy"
   ],
-  "author": "bterzea",
-  "license": "ISC",
+  "author": "bogdanterzea",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bogdanterzea/test-package-bterzea/issues"
   },
